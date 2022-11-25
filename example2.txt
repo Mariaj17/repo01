@@ -1,0 +1,1 @@
+This is the text of the example file 2 in repo 01
